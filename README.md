@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Here is the live version of my **[Meme Generator](https://denni5lin.github.io/react-meme-generator/)**
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -29,5 +31,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-
